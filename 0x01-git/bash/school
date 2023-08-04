@@ -1,2 +1,2 @@
 #!/bin/bash
-The achool is open
+aecho "The achool is open"
